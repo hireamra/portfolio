@@ -69767,7 +69767,7 @@ const Qte = () =>
           children: _e(Yte, { size: 24 }),
         }),
         _e("a", {
-          href: "https://www.instagram.com/amraedits",
+          href: "https://www.instagram.com/amraedits_",
           target: "_blank",
           rel: "noopener noreferrer",
           children: _e(jte, { size: 24 }),
